@@ -14,3 +14,6 @@ img {
   width: 650px;
   height: auto;
 }
+.col-sm-6 .extra {
+  text-align: center;
+}
